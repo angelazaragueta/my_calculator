@@ -1,2 +1,1 @@
-Un primer fichero en mi primer repositorio, Angela Zaragueta Munoz
-
+Mi primer fichero en mi primer repositorio, Angela Zaragüeta Muñoz
